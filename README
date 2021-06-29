@@ -1,0 +1,7 @@
+Guess the US States Game
+
+-Type in the window the state, if the guess is correct it will appear on the map.
+-If you finished guessing, type 'exit' in the window.
+-All the states you didn't guess will be stored in a new file - States to learn.
+
+Built with python- turtle, pandas.
